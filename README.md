@@ -1,0 +1,1 @@
+# Camstudio-Full-Version
