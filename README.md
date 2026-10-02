@@ -238,4 +238,4 @@ This repository serves as the official landing page for CamStudio. The software 
 **Get the most recent version of CamStudio today!**
 
 ---
-**Last updated:** 2026-10-02 19:41:14 UTC
+**Last updated:** 2026-10-02 23:27:03 UTC
